@@ -1,0 +1,23 @@
+# Core Streamlit and Data Processing
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.24.0
+Pillow>=9.5.0
+
+# Plotting and Visualization
+plotly>=5.15.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Computer Vision and ML
+deepface>=0.0.79
+opencv-python>=4.8.0
+tensorflow>=2.13.0
+
+# Spotify Integration
+spotipy>=2.22.1
+python-dotenv>=1.0.0
+
+# Utilities and Helpers
+requests>=2.31.0
+python-dateutil>=2.8.2
